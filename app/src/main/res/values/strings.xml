@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyMusicWork</string>
+    <!--3=欧美5=内地6=港台16=韩国17=日本18=民谣19=摇滚23=销量26=热歌-->
+    <string name="europe">欧美</string>
+    <string name="china_land">内地</string>
+    <string name="HongKong">港台</string>
+    <string name="korea">韩国</string>
+    <string name="japan">日本</string>
+    <string name="ballad">民谣</string>
+    <string name="rock">摇滚</string>
+    <string name="sales">销量</string>
+    <string name="hot_music">热歌</string>
+    <!--3=欧美5=内地6=港台16=韩国17=日本18=民谣19=摇滚23=销量26=热歌-->
+    <!--Tag-->
+    <string name="image_url">url</string>
+    <!--Tag-->
+    <string name="success">success</string>
+    <string name="error">error</string>
+</resources>
